@@ -12,7 +12,7 @@ body{
     justify-content: center;
     display: flex;
     flex-direction: column;
-    padding: 5% 0 0 0; 
+    padding: 20% 0 0 0; 
 }
 
 .content{
@@ -93,5 +93,8 @@ ul{
     
     .social-content{
         width: 80%;
+    }
+    .container{
+        padding: 5% 0 0 0; 
     }
 }
